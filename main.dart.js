@@ -73032,7 +73032,7 @@ A.WT.prototype={
 $0(){A.Em(this.a).vy(null)},
 $S:0}
 A.Ee.prototype={
-T(a){return new A.uy(new A.DR(A.a(["assets/lottie/celebration.json","assets/lottie/loading_character(typing)_5sec.json","assets/lottie/loading_character(typing)_3sec.json","assets/lottie/loading_circle.json","assets/lottie/icon_ok.json","assets/lottie/pickeat_splash_v01-1.json"],t.s),null),null)}}
+T(a){return new A.uy(new A.DR(A.a(["assets/lottie/celebration.json","assets/lottie/loading_character(typing)_5sec.json","assets/lottie/loading_character(typing)_3sec.json","assets/lottie/loading_circle.json","assets/lottie/icon_ok.json","assets/lottie/pickeat_splash_v01.json"],t.s),null),null)}}
 A.at.prototype={
 wB(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p){var s=this.a
 s[15]=p
