@@ -73011,7 +73011,7 @@ gC9(){return"windows"},
 grb(){return"\\"}}
 A.DR.prototype={
 T(a){var s=null,r=A.aeh(s,A.ac9("Lottie Gallery"))
-return A.ahc(r,s,new A.DK(new A.a0S(new A.WR(this),6,!0,!0,!0,s),s,B.by,!1,s,s,B.x4,!1,s,6,B.c8,B.Hb,s,B.b3,s))}}
+return A.ahc(r,s,new A.DK(new A.a0S(new A.WR(this),7,!0,!0,!0,s),s,B.by,!1,s,s,B.x4,!1,s,7,B.c8,B.Hb,s,B.b3,s))}}
 A.WR.prototype={
 $2(a,b){var s=this.a,r=B.b.gI(J.aah(B.b.gX(s.c[b].split("/")),"."))
 return new A.ou(A.ac9(A.nq(r,"_"," ")),new A.WQ(s,a,b),null)},
@@ -73032,7 +73032,7 @@ A.WT.prototype={
 $0(){A.Em(this.a).vy(null)},
 $S:0}
 A.Ee.prototype={
-T(a){return new A.uy(new A.DR(A.a(["assets/lottie/celebration.json","assets/lottie/loading_character(typing)_5sec.json","assets/lottie/loading_character(typing)_3sec.json","assets/lottie/loading_circle.json","assets/lottie/icon_ok.json","assets/lottie/pickeat_splash_v01.json"],t.s),null),null)}}
+T(a){return new A.uy(new A.DR(A.a(["assets/lottie/celebration.json","assets/lottie/loading_character(typing)_5sec.json","assets/lottie/loading_character(typing)_3sec.json","assets/lottie/loading_circle.json","assets/lottie/icon_ok.json","assets/lottie/pickeat_splash_v_01.json","assets/lottie/welcome_pack.json"],t.s),null),null)}}
 A.at.prototype={
 wB(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p){var s=this.a
 s[15]=p
